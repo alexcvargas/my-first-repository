@@ -2,4 +2,4 @@
 
 ##Table of Contents
 
--example_file.txt
+Hello world, I love using git...this readme.md was written off the updateREADME branch 
